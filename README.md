@@ -1,4 +1,4 @@
-# PRODIGY_DS_01
+# TABLEAU PLOTTING OF RAINFALL DATA
 
 https://public.tableau.com/app/profile/nishita.bajaj/viz/Rainfalldatabarchart/Story1?publish=yes
 
